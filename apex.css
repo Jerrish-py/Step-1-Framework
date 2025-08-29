@@ -1,0 +1,44 @@
+body{
+
+	background-image:url(https://static.vecteezy.com/system/resources/thumbnails/001/903/304/small_2x/blue-water-and-sky-during-the-day-free-photo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: black;
+
+}
+
+p {
+            font-size: 18px;
+        }
+        img {
+            width: 200px;
+            border-radius: 10px;
+            margin: 15px 0;
+        }
+        a {
+            text-decoration: none;
+            font-weight: bold;
+            color: darkviolet;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #27ae60;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+        button:hover {
+            background-color: #2ecc71;
+        }
+
+.dark-mode {
+    background-image: url(https://images.unsplash.com/photo-1468657988500-aca2be09f4c6?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGRhcmt8ZW58MHx8MHx8fDA%3D);
+    color: white;
+    background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
